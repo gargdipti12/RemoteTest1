@@ -17,6 +17,6 @@ public class Main
         System.out.println("test2"); 
         System.out.println("test3"); 
         
-        System.out.println("changes by another developer"); 
+        System.out.println("changes by another developer...."); 
     }
 }
